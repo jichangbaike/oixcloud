@@ -9,7 +9,8 @@ oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动�
 > 📒 更新时间：2026-02-25
 
 ## ✅ oixCloud 官网地址
-- 官网注册链接：https://finalto.xyz/3GhBy7
+- 大陆访问：https://finalto.xyz/3GhBy7
+- 永久官网：<a href="https://oixcloud.com/auth/register?affid=14356">oixcloud.com</a>
 
 ---
 
