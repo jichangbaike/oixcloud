@@ -84,7 +84,7 @@ oixCloud 支持主流平台与客户端生态，适合多终端同时使用（�
 说明：截图仅供参考，解锁效果会随节点、时段与平台风控策略变化；以实际体验为准。  
 测试环境：2026-02-25，电信宽带 1Gbps。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/oixcloud/refs/heads/main/images/oixcloud-test-20260125.png" alt="oixcloud 下载测试和流媒体测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/oixcloud/refs/heads/main/images/oixcloud-test-20260225.png" alt="oixcloud 下载测试和流媒体测试图">
 
 ---
 
