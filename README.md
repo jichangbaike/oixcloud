@@ -1,16 +1,22 @@
 # oixCloud（原 DlerCloud）官网地址和使用说明
 
+## Links
+- Repo (Main): https://github.com/jichangbaike/oixcloud
+- Latest: https://github.com/jichangbaike/oixcloud/releases/latest
+- Releases: https://github.com/jichangbaike/oixcloud/releases
+
 **oixCloud（原 DlerCloud）** 是一个自 **2016 年**持续运营至今的网络加速服务项目，技术实力强、口碑稳定，适合对网络稳定性有较高要求的用户。
 
 oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动、更低丢包与更可用的体验；支持远程办公、视频会议、跨境访问、流媒体解锁与 AI 工具访问等场景。
 
+> ✅ 本仓库用于汇总 oixCloud 官网入口、使用说明与更新下载（主入口以 Repo 为准）。
 > ⚠️ 使用规则：本项目为**个人套餐**，**严禁多人共享使用**（违反规则可能触发限制/风控）。  
 > 🔔 原 DlerCloud 团队失联，相关业务现已由 **NEW NEO NETWORK LIMITED** 正式接手并继续运营。  
 > 📒 更新时间：2026-02-26
 
-## ✅ oixCloud 官网地址
-- 大陆访问：https://finalto.xyz/3GhBy7
+## 🌍 oixCloud 官网地址
 - 永久官网：<a href="https://oixcloud.com/auth/register?affid=14356">oixcloud.com</a>
+- 大陆访问：https://finalto.xyz/3GhBy7
 
 ---
 
