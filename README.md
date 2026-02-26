@@ -6,7 +6,7 @@ oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动�
 
 > ⚠️ 使用规则：本项目为**个人套餐**，**严禁多人共享使用**（违反规则可能触发限制/风控）。  
 > 🔔 原 DlerCloud 团队失联，相关业务现已由 **NEW NEO NETWORK LIMITED** 正式接手并继续运营。  
-> 📒 更新时间：2026-02-25
+> 📒 更新时间：2026-02-26
 
 ## ✅ oixCloud 官网地址
 - 大陆访问：https://finalto.xyz/3GhBy7
@@ -83,6 +83,8 @@ oixCloud 支持主流平台与客户端生态，适合多终端同时使用（�
 ## oixCloud 实测截图
 说明：截图仅供参考，解锁效果会随节点、时段与平台风控策略变化；以实际体验为准。  
 测试环境：2026-02-25，电信宽带 1Gbps。
+
+<img src="https://raw.githubusercontent.com/jichangbaike/oixcloud/refs/heads/main/images/oixcloud-test-20260125.png" alt="oixcloud 下载测试和流媒体测试图">
 
 ---
 
