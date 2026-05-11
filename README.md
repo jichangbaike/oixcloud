@@ -7,7 +7,7 @@ oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动�
 > ✅ 本仓库用于汇总 oixCloud 官网入口与使用说明（主入口以 Repo 为准）。  
 > ⚠️ 使用规则：本项目为**个人套餐**，**严禁多人共享使用**（违反规则可能触发限制/风控）。  
 > 🔔 原 DlerCloud 团队失联，相关业务现已由 **NEW NEO NETWORK LIMITED** 正式接手并继续运营。  
-> 📒 更新时间：2026-05-07
+> 📒 更新时间：2026-05-11
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -16,7 +16,9 @@ oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动�
 
 
 ## 🌍 oixCloud 官网地址
-- 大陆访问：https://finalto.xyz/3GhBy7
+- 永久官网：[https://oixcloud.com/](https://oixcloud.com/auth/register?affid=14356)
+- 大陆访问：[https://todesk.io/](https://todesk.io/auth/register?affid=14356)
+- 邀请码：99b9ef8e-d363-469f-8dab-c348b150c3ee
 
 ## Links
 - GitHub 主入口（Repo）：https://github.com/jichangbaike/oixcloud
@@ -122,5 +124,5 @@ A：页面显示有“低速流量 ∞”，通常意味着高速用尽后进入
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-05-07`  
-- **Version:** `v1.0`
+- **Last Updated:** `2026-05-11`  
+- **Version:** `v1.1`
