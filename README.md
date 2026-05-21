@@ -1,8 +1,8 @@
 # oixCloud（原 DlerCloud）官网地址和使用说明
 
-**oixCloud（原 DlerCloud）** 是一个自 **2016 年**持续运营至今的网络加速服务项目，技术实力强、口碑稳定，适合对网络稳定性有较高要求的用户。
+**oixCloud（原 DlerCloud）** 是一个自 **2016 年**持续运营至今的网络加速服务项目，采用 **AnyTLS** 协议，技术实力强、口碑稳定，适合对网络稳定性有较高要求的用户。
 
-oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动、更低丢包与更可用的体验；支持远程办公、视频会议、跨境访问、流媒体解锁与 AI 工具访问等场景。
+oixCloud 使用 **BGP 网络接入**，在拥堵时段尽量保持更低抖动、更低丢包与更可用的体验；支持远程办公、视频会议、跨境访问、流媒体解锁与 AI 工具访问等场景。
 
 > ✅ 本仓库用于汇总 oixCloud 官网入口与使用说明（主入口以 Repo 为准）。  
 > ⚠️ 使用规则：本项目为**个人套餐**，**严禁多人共享使用**（违反规则可能触发限制/风控）。  
@@ -35,8 +35,8 @@ oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动�
 ---
 
 ## 为什么选择 oixCloud
-- **晚高峰稳定性优先**：专线体系 + 优化网络，稳定取向
-- **IEPL 专线接入**：按套餐开放 IXP / BGP / AC 等分级能力
+- **晚高峰稳定性优先**：直连线路 + 优化网络，稳定取向
+- **BGP 网络接入**：按套餐开放 标准优化 CIA / 上云互联 IXP / 融合网络 Fusion 等分级能力
 - **流媒体解锁**：支持 Netflix、Disney+、HBO Max、Hulu、Abema 等平台（以实际节点与平台策略为准）
 - **AI 工具访问**：支持 ChatGPT、Claude、Copilot、Gemini 等服务（以实际节点与平台策略为准）
 - **长期运营**：2016 至今持续维护与迭代，不是短期换皮
@@ -44,8 +44,12 @@ oixCloud 使用 **IEPL 专线接入**，在拥堵时段尽量保持更低抖动�
 ---
 
 ## oixCloud 网络能力说明
-- **Edge**：直连线路，覆盖主流场景  
-- **IEPL**：专线体系，更偏稳定性取向（含 IXP / BGP / AC 分级，随套餐开放）
+- **Edge**：直连线路，覆盖主流场景
+- **CIA**：标准优化线路
+- **IXP**：上云互联线路
+- **Fusion**：融合网络线路
+
+不同的套餐，不同的线路
 
 ---
 
@@ -54,18 +58,18 @@ oixCloud 采用订阅套餐体系，各档位主要区别在于：**可用线路
 
 | 套餐名称 | 价格 | 高速流量 | 可用线路 |
 |---|---:|---:|---|
-| Pass Bronze | ¥299/年 | 1000 GiB | Edge / IEPL |
-| Pass Silver | ¥699/年 | 3000 GiB | Edge / IEPL |
-| Pass Gold | ¥999/年 | 6000 GiB | Edge / IEPL |
-| Pass Platinum | ¥1499/年 | 8000 GiB | Edge / IEPL |
-| Pass Diamond | ¥1999/年 | 12000 GiB | Edge / IEPL |
-| Pass Titanium | ¥3888/年 | 18000 GiB | Edge / IEPL |
+| Pass Bronze | ¥299/年 | 1000 GiB | Edge / CIA / IXP  |
+| Pass Silver | ¥699/年 | 3000 GiB | Edge / CIA / IXP / Fusion |
+| Pass Gold | ¥999/年 | 6000 GiB | Edge / CIA / IXP / Fusion |
+| Pass Platinum | ¥1499/年 | 8000 GiB | Edge / CIA / IXP / Fusion / Fusion (Advanced)|
+| Pass Diamond | ¥1999/年 | 12000 GiB | Edge / CIA / IXP / Fusion / Fusion (Advanced)|
+| Pass Titanium | ¥3888/年 | 18000 GiB | Edge / CIA / IXP / Fusion / Fusion (Advanced) |
 
 **说明：**
 - 个人套餐，**严禁多人共享使用**；
 - 页面显示各套餐“低速流量 ∞”，高速用尽后的规则以购买页为准；
 - Pass Iron 页面提示：**可能不适用于中国大陆用户**（如后续上架/展示请以官网为准）；
-- IEPL 分级（IXP/BGP/AC）随套餐开放，通常等级越高越偏稳定取向。
+- BGP网络接入分级（CIA/IXP/Fusion）随套餐开放，通常等级越高越偏稳定取向。
 
 ---
 
@@ -134,4 +138,4 @@ A：页面显示有“低速流量 ∞”，通常意味着高速用尽后进入
 
 - **Maintained by:** `jichangbaike`  
 - **Last Updated:** `2026-05-21`  
-- **Version:** `v1.2`
+- **Version:** `v1.3`
